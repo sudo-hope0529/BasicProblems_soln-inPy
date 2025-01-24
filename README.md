@@ -26,26 +26,26 @@ This repository is a collection of Python solutions for various basic problems. 
 ## **Problems Solved:**
 
 Here is a list of some of the basic problems solved in this repository:
-    ```
-    1: Determine Input Number is Even or Odd
-    2: Find large number in given input numbers
-    3: Check if given Number or word is a palindrome or not
-    4: Print Fizz-Buzz(if num is divisible by 3 & 5), Fizz(if num is divisible by 3), Buzz(if num is divisible by 5) according to given input
-    5: Count Number of Vowels in a string
-    6: Reversing a given String
-    7: Finding Factorial of a given Number
-    8: Check if Input number is a Prime number or Not
-    9: Finding GCD(Greatest Common Divisior) of 2 or 3 Numbers
-    10: Finding LCM(LeasT Common mULTIPLE) of 2 or 3 Numbers
-    11: Checking if a given sentence or string is a Pangram
-    12: Reversing Words in a given string or sentece
-    13: Finding @nd Largest Number in Given Numbers
-    14: Checing if 2 string are Anagrams of each other
-    15: Finding Fibonacci Number at given position
-    16: Finding Longest word in a given string
-    17: Counting Characters in a given string and sort them based on counts( in decreasing order), and alphabetically when counts are tied
-    18: Checking if a Number is an Armstrong ot to print Armstrong Numbers in a given Range
-    ```
+  
+- Determine if an input number is even or odd
+- Find the largest number in given input numbers
+- Check if a given number or word is a palindrome
+- Print Fizz-Buzz (if the number is divisible by 3 & 5), Fizz (if the number is divisible by 3), Buzz (if the number is divisible by 5) according to given input
+- Count the number of vowels in a string
+- Reverse a given string
+- Find the factorial of a given number
+- Check if the input number is a prime number
+- Find the GCD (Greatest Common Divisor) of 2 or 3 numbers
+- Find the LCM (Least Common Multiple) of 2 or 3 numbers
+- Check if a given sentence or string is a pangram
+- Reverse words in a given string or sentence
+- Find the 2nd largest number in given numbers
+- Check if 2 strings are anagrams of each other
+- Find the Fibonacci number at a given position
+- Find the longest word in a given string
+- Count characters in a given string and sort them based on counts (in decreasing order), and alphabetically when counts are tied
+- Check if a number is an Armstrong number or print Armstrong numbers in a given range
+
     
 *Feel free to explore the solutions and use them as a reference for your own learning.*
 
