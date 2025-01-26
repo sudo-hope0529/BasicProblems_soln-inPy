@@ -45,6 +45,7 @@ Here is a list of some of the basic problems solved in this repository:
 - Find the longest word in a given string
 - Count characters in a given string and sort them based on counts (in decreasing order), and alphabetically when counts are tied
 - Check if a number is an Armstrong number or print Armstrong numbers in a given range
+- Find unique values( values that are not repeated ) in given list of strings and numbers 
 
     
 *Feel free to explore the solutions and use them as a reference for your own learning.*
