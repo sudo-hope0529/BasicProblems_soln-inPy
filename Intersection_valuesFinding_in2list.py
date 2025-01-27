@@ -13,7 +13,7 @@ def Intersection(list1, list2):
          NonIntersectingValuesOfList1.append(i) # store non-intersecting values of list1
 
    for j in list2:                        # For finding Non-intersecting values of list 2
-      if j not in list1:
+      if j not in intersectionValues:
          if j not in NonIntersectingValuesOfList2:
             NonIntersectingValuesOfList2.append(j)  # store non-intersecting values of list1
 
