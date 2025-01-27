@@ -45,7 +45,9 @@ Here is a list of some of the basic problems solved in this repository:
 - Find the longest word in a given string
 - Count characters in a given string and sort them based on counts (in decreasing order), and alphabetically when counts are tied
 - Check if a number is an Armstrong number or print Armstrong numbers in a given range
-- Find unique values( values that are not repeated ) in given list of strings and numbers 
+- Find unique values( values that are not repeated ) in given list of strings and numbers
+- Finding First Unique Character in a string/Word/Sentence
+- Finding Intersection Values of 2 lists containing either numbers or words or both
 
     
 *Feel free to explore the solutions and use them as a reference for your own learning.*
