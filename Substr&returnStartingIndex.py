@@ -5,7 +5,7 @@ def Substring_check(strMain, strSub):
    if position != -1:
       return True, position
    return False, -1
-
+ 
 
 # Main Function
 strMain = input('\nEnter the main String: ')
