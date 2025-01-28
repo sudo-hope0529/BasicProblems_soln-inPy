@@ -48,6 +48,7 @@ Here is a list of some of the basic problems solved in this repository:
 - Find unique values( values that are not repeated ) in given list of strings and numbers
 - Finding First Unique Character in a string/Word/Sentence
 - Finding Intersection Values of 2 lists containing either numbers or words or both
+- Check if StrSub is a substring of strMain and if yes then return with position(starting index) of strSub
 
     
 *Feel free to explore the solutions and use them as a reference for your own learning.*
