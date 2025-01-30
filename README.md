@@ -50,6 +50,7 @@ Here is a list of some of the basic problems solved in this repository:
 - Finding Intersection Values of 2 lists containing either numbers or words or both
 - Check if StrSub is a substring of strMain and if yes then return with position(starting index) of strSub
 - Find Missing Number(s) in a list by different methods[ SimpleMethod, SetMethod, SumMethod( valid for 1 value) ]
+- Find Pairs and Triplets with a Given Sum in a List
 
     
 *Feel free to explore the solutions and use them as a reference for your own learning.*
