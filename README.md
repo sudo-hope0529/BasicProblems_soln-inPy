@@ -51,6 +51,8 @@ Here is a list of some of the basic problems solved in this repository:
 - Check if StrSub is a substring of strMain and if yes then return with position(starting index) of strSub
 - Find Missing Number(s) in a list by different methods[ SimpleMethod, SetMethod, SumMethod( valid for 1 value) ]
 - Find Pairs and Triplets with a Given Sum in a List
+- Find the Majority Element in a List
+- Finding Longest Consecutive Sequence in an Unsorted List
 
     
 *Feel free to explore the solutions and use them as a reference for your own learning.*
