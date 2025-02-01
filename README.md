@@ -49,7 +49,7 @@ Here is a list of some of the basic problems solved in this repository:
 - [Finding First Unique Character in a string/Word/Sentence](FirstUniqueChar_inString0Word.py)
 - [Finding Intersection Values of 2 lists containing either numbers or words or both](Intersection_valuesFinding_in2list.py)
 - [Check if StrSub is a substring of strMain and if yes then return with position (starting index) of strSub](Substr&returstartingIndex.py)
-- [Find Missing Number(s) in a list by different methods [SimpleMethod, SetMethod, SumMethod (valid for 1 value)](MissingNums-find.py)
+- [Find Missing Number(s) in a list by different methods {i.e. SimpleMethod, SetMethod, SumMethod (valid for 1 value)}](MissingNums-find.py)
 - [Find Pairs and Triplets with a Given Sum in a List](Pairs&Triplets_of_given_sum&List.py)
 - [Find the Majority Element in a List](majority_num.py)
 - [Finding Longest Consecutive Sequence in an Unsorted List](longest_consecutive_sequence.py)
